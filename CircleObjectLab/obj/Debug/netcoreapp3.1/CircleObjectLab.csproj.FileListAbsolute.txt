@@ -1,0 +1,13 @@
+C:\Users\12482\source\repos\CircleObjectLab\CircleObjectLab\bin\Debug\netcoreapp3.1\CircleObjectLab.exe
+C:\Users\12482\source\repos\CircleObjectLab\CircleObjectLab\bin\Debug\netcoreapp3.1\CircleObjectLab.deps.json
+C:\Users\12482\source\repos\CircleObjectLab\CircleObjectLab\bin\Debug\netcoreapp3.1\CircleObjectLab.runtimeconfig.json
+C:\Users\12482\source\repos\CircleObjectLab\CircleObjectLab\bin\Debug\netcoreapp3.1\CircleObjectLab.runtimeconfig.dev.json
+C:\Users\12482\source\repos\CircleObjectLab\CircleObjectLab\bin\Debug\netcoreapp3.1\CircleObjectLab.dll
+C:\Users\12482\source\repos\CircleObjectLab\CircleObjectLab\bin\Debug\netcoreapp3.1\CircleObjectLab.pdb
+C:\Users\12482\source\repos\CircleObjectLab\CircleObjectLab\obj\Debug\netcoreapp3.1\CircleObjectLab.csprojAssemblyReference.cache
+C:\Users\12482\source\repos\CircleObjectLab\CircleObjectLab\obj\Debug\netcoreapp3.1\CircleObjectLab.AssemblyInfoInputs.cache
+C:\Users\12482\source\repos\CircleObjectLab\CircleObjectLab\obj\Debug\netcoreapp3.1\CircleObjectLab.AssemblyInfo.cs
+C:\Users\12482\source\repos\CircleObjectLab\CircleObjectLab\obj\Debug\netcoreapp3.1\CircleObjectLab.csproj.CoreCompileInputs.cache
+C:\Users\12482\source\repos\CircleObjectLab\CircleObjectLab\obj\Debug\netcoreapp3.1\CircleObjectLab.dll
+C:\Users\12482\source\repos\CircleObjectLab\CircleObjectLab\obj\Debug\netcoreapp3.1\CircleObjectLab.pdb
+C:\Users\12482\source\repos\CircleObjectLab\CircleObjectLab\obj\Debug\netcoreapp3.1\CircleObjectLab.genruntimeconfig.cache
